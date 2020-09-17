@@ -9,7 +9,7 @@
 I have been using Udemy for all of my programming needs since I was in college. The projects in this folder use advanced methods to create different models for data sets that were provided by Udemy and Kaggle.
 
 ### List of Projects:
-    - [Lending Club loan data analysis using Keras API](https://github.com/samdomeier/Data-Science-Projects/blob/master/Udemy_projects/LendingClub_loan_analysis_Keras_API.ipynb)
+   - [Lending Club loan data analysis using Keras API](https://github.com/samdomeier/Data-Science-Projects/blob/master/Udemy_projects/LendingClub_loan_analysis_Keras_API.ipynb)
 
 
 ## 2019 March Madness Predictions
