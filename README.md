@@ -1,4 +1,4 @@
-# Data Science Projects using Pythong and Jupyter Notebook
+# Data Science Projects using Python and Jupyter Notebook
 > This repository contains projects inspired by different Kaggle datasets and course work through Udemy.
 
 ## Table of Contents
