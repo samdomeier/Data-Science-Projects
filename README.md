@@ -24,4 +24,4 @@ Due to the pandemic that we find ourself in these days, this competition was can
 
 I am currently in the midst of creating the model. I have been focusing on my Springboard projects lately, so I hope to find time to complete this model in the near future.
 
-### [Advanced Modeling with the Titanic Dataset]()
+### [Advanced Modeling with the Titanic Dataset](https://github.com/samdomeier/Data-Science-Projects/blob/master/Titanic%20Kaggle%20Data%20Project.ipynb)
